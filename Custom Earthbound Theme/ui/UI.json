@@ -63,7 +63,7 @@
     "battery_icon": {
       "x": 120,
       "y": 90,
-      "visible": true
+      "visible": false
     },
     "settings_icon": {
       "x": 1030,
