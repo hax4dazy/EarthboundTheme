@@ -1,5 +1,6 @@
 # EarthboundTheme
-Its a theme for uLaunch
+
+Thanks for yyoossk#4691 on discord for supplying me with the web icon, settings icon and the settings no edditable icon
 
 
 Here are some screenshots or something. Keep in mind that the user logo is blank on here but that was because I was using a program on my pc to capture the screenshots. 
