@@ -13,3 +13,5 @@ Here are some screenshots or something. Keep in mind that the user logo is blank
 ![Screenshot 4](https://i.imgur.com/nXydg5H.png)
 
 ![Screenshot 5](https://i.imgur.com/XP3hj4V.png)
+
+![Screenshot 6](https://i.imgur.com/x9W6I9R.png)
