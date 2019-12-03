@@ -47,12 +47,12 @@
     },
     "web_icon": {
       "x": 1030,
-      "y": 180,
+      "y": 160,
       "visible": true
     },
     "time_text": {
       "x": 155,
-      "y": 180,
+      "y": 175,
       "visible": true
     },
     "battery_text": {
@@ -67,17 +67,17 @@
     },
     "settings_icon": {
       "x": 1030,
-      "y": 90,
+      "y": 80,
       "visible": true
     },
     "themes_icon": {
       "x": 1140,
-      "y": 90,
+      "y": 80,
       "visible": true
     },
     "firmware_text": {
       "x": 1140,
-      "y": 195,
+      "y": 175,
       "visible": true
     },
     "menu_toggle_button": {
