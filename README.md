@@ -4,7 +4,7 @@ Thanks for yyoossk#4691 on discord for supplying me with the web icon, settings 
 
 
 Here are some screenshots or something. Keep in mind that the user logo is blank on here but that was because I was using a program on my pc to capture the screenshots. 
-![Screenshot 1](https://raw.githubusercontent.com/hax4dazy/EarthboundTheme/master/Screenshots/2019-12-03%2010-60-04.png?token=AD4A7USLFGR4M2H2QWXKBWK54YS54)
+![Screenshot 1](https://raw.githubusercontent.com/hax4dazy/EarthboundTheme/master/Screenshots/2019-12-03%2010-60-04.png?token=AD4A7US2KFOAMM5DRLJA7CK54YVBA)
 
 ![Screenshot 2](https://raw.githubusercontent.com/hax4dazy/EarthboundTheme/master/Screenshots/2019-12-03%2010-60-07.png?token=AD4A7UQHDIYLI2HKM32WPTC54YTAK)
 
