@@ -98,7 +98,7 @@
     "banner_version_text": {
       "x": 250,
       "y": 690,
-      "visible": true
+      "visible": false
     },
     "items_menu": {
       "y": 294
