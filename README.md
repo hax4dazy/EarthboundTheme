@@ -8,9 +8,9 @@ Here are some screenshots or something. Keep in mind that the user logo is blank
 
 ![Screenshot 2](https://i.imgur.com/6imFE6j.png)
 
-![Screenshot 3](https://i.imgur.com/JOI8FEt.png)
+![Screenshot 3](https://i.imgur.com/CJaG8a7.png)
 
-![Screenshot 4](https://i.imgur.com/CJaG8a7.png)
+![Screenshot 4](https://i.imgur.com/JOI8FEt.png)
 
 ![Screenshot 5](https://i.imgur.com/XP3hj4V.png)
 
