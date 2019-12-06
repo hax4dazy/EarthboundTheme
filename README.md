@@ -1,9 +1,9 @@
 # EarthboundTheme
 
-Thanks for yyoossk#4691 on discord for supplying me with the web icon, settings icon and the settings no edditable icon
+Thanks for yyoossk#4691 on discord for supplying me with the web icon, settings icon and the settings no edditable icon.
 
 
-Here are some screenshots or something. Keep in mind that the user logo is blank on here but that was because I was using a program on my pc to capture the screenshots. 
+Here are some screenshots or something. Keep in mind that the user logo is blank on here but that was because I was using a program to preview my theme on the computer. 
 ![Screenshot 1](https://i.imgur.com/CHDrPLC.png)
 
 ![Screenshot 2](https://i.imgur.com/6imFE6j.png)
