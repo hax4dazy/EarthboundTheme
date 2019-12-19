@@ -97,8 +97,8 @@
     },
     "banner_version_text": {
       "x": 250,
-      "y": 690,
-      "visible": false
+      "y": 6900,
+      "visible": true
     },
     "items_menu": {
       "y": 294
